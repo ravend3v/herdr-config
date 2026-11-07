@@ -1,0 +1,14 @@
+onboarding = false
+
+[ui.sound]
+enabled = false
+
+[keys]
+prefix = "alt+s"
+
+# Workspaces
+switch_workspace = "prefix+1..9"
+
+#Navigate panes
+focus_pane_left = "prefix+j"
+focus_pane_right = "prefix+l"
